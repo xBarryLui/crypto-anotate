@@ -1,4 +1,4 @@
-Aceptar
+Aceptar xxxxxx
 Cancelar
 Salir
 Guardar
