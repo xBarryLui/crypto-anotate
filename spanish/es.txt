@@ -1,4 +1,4 @@
-Aceptar xxxxxx
+Aceptar confirmando cambios
 Cancelar
 Salir
 Guardar
