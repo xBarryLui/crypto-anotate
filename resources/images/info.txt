@@ -1,0 +1,3 @@
+0:Buenos días:108
+1:Buenas noches:11
+2:Amor
