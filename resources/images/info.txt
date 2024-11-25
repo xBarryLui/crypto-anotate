@@ -1,3 +1,9 @@
-0:Buenos días:173:
-1:Buenas noches:104:
+0:Buenos Días:173:
+1:Buenas Noches:104:
 2:Amor:0:
+3:Amistad:0:
+4:Frases:0:
+5:Navidad:0:
+6:Paisajes:0:
+7:Animales:0:
+8:Inteligencia Artificial:0:
