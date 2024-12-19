@@ -6,4 +6,4 @@
 5:Navidad:117:
 6:Paisajes:0:
 7:Animales:0:
-8:Inteligencia Artificial:0:
+8:Inteligencia Artificial:53:
