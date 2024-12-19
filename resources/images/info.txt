@@ -1,7 +1,7 @@
 0:Buenos Días:260:
 1:Buenas Noches:200:
-2:Amor:0:
-3:Amistad:0:
+2:Buenas Tardes:0:
+3:Chistes:103:
 4:Frases:0:
 5:Navidad:117:
 6:Paisajes:0:
